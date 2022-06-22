@@ -23,4 +23,4 @@ npm install
 ## Author
 
 - [GitHub](https://github.com/aflorkie)
-- [Linkedin](www.linkedin.com/in/alicja-rybinska)
+- [Linkedin](https://www.linkedin.com/in/alicja-rybinska)
